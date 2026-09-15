@@ -18565,7 +18565,7 @@
 				)
 			)
 		)
-		(property "Comment" ""
+		(property "Comment" "resetable please"
 			(at 54.61 30.48 90)
 			(hide yes)
 			(show_name no)

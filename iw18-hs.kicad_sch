@@ -10557,7 +10557,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "47k"
 			(at 31.75 121.9199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11077,7 +11077,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "47k"
 			(at 36.83 146.0499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12683,7 +12683,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "4.7k"
 			(at 53.34 142.2399 0)
 			(show_name no)
 			(do_not_autoplace no)

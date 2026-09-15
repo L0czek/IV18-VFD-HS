@@ -6433,10 +6433,6 @@
 		(uuid "5ce11455-f29f-45e6-9c42-4c7edc755383")
 	)
 	(no_connect
-		(at 139.7 127)
-		(uuid "648469db-bd9e-4ec6-9994-01d60eb77ba1")
-	)
-	(no_connect
 		(at 224.79 92.71)
 		(uuid "77c26290-70b6-495c-bab6-5d8b1cb7647c")
 	)
@@ -7661,6 +7657,16 @@
 			(type default)
 		)
 		(uuid "c967778d-4659-4fe7-9bb7-3f52d7051663")
+	)
+	(wire
+		(pts
+			(xy 142.24 127) (xy 139.7 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca3e62ad-b078-4cdd-8afa-c8a21ceb46d5")
 	)
 	(wire
 		(pts
@@ -8947,6 +8953,30 @@
 		(uuid "a6b7ecc8-1a60-4d90-a8ab-5e29ddf476c7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 222.9372 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "ETANOL_SENSOR_HEAT"
+		(shape input)
+		(at 142.24 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b9a5ad7d-63bd-42f9-bdb5-140d50ddbd3d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 166.0894 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

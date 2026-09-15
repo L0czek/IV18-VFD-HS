@@ -1,0 +1,3 @@
+[submodule "thirdparty/KiCad-libs"]
+	path = thirdparty/KiCad-libs
+	url = https://github.com/jh1995/KiCad-libs.git

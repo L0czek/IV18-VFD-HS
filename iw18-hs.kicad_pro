@@ -660,7 +660,7 @@
           "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "Q4",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
@@ -708,7 +708,7 @@
         "uuid": "9f21d1c7-829c-4910-99a9-b9bc821490d3"
       }
     ],
-    "used_designators": "#PWR24,#PWR102,D1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -723,6 +723,14 @@
     [
       "cc3711de-cfeb-4aec-8a45-cd304d109296",
       "Periph"
+    ],
+    [
+      "0bdd8ea9-25d3-4987-90ea-e0875a81f277",
+      "Powerbank"
+    ],
+    [
+      "4e749914-6693-437a-bef5-a83decf908a8",
+      "VFD"
     ]
   ],
   "text_variables": {},

@@ -2,5 +2,6 @@
 	(version 7)
 	(lib (name "vfd") (type "KiCad") (uri "${KIPRJMOD}/thirdparty/KiCad-libs/vfd.kicad_sym") (options "") (descr ""))
 	(lib (name "hv5812") (type "KiCad") (uri "${KIPRJMOD}/thirdparty/hv5812.kicad_sym") (options "") (descr ""))
-  (lib (name "JLCImport")(type "KiCad")(uri "${KIPRJMOD}/JLCImport.kicad_sym")(options "")(descr ""))
+	(lib (name "JLCImport") (type "KiCad") (uri "${KIPRJMOD}/JLCImport.kicad_sym") (options "") (descr ""))
+	(lib (name "247") (type "KiCad") (uri "${KIPRJMOD}/thirdparty/247/247.kicad_sym") (options "") (descr ""))
 )

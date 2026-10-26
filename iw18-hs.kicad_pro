@@ -60,9 +60,9 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.3,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
+          "min_thickness": 0.2,
           "pad_connection": 1,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
@@ -212,7 +212,11 @@
       "track_widths": [
         0.0,
         0.2,
-        0.5
+        0.4,
+        0.5,
+        0.8,
+        1.0,
+        2.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -244,6 +248,26 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.45,
+          "drill": 0.2
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.4
+        },
+        {
+          "diameter": 1.5,
+          "drill": 0.7
+        },
+        {
+          "diameter": 2.0,
+          "drill": 1.0
         }
       ],
       "zones_allow_external_fillets": false
@@ -724,7 +748,7 @@
         "uuid": "9f21d1c7-829c-4910-99a9-b9bc821490d3"
       }
     ],
-    "used_designators": "R33-34,C53-54,SW3-4,U17-20,#PWR13,#PWR64,#PWR66,#PWR118-121,#PWR124-152,J4-8,H1-6,BT1-2",
+    "used_designators": "R33-34,C5,C53-54,SW3-4,U17-20,#PWR13,#PWR64,#PWR66,#PWR118-121,#PWR124-153,J4-8,H1-6,BT1-2",
     "variants": []
   },
   "sheets": [

@@ -8239,7 +8239,6 @@
 	(symbol
 		(lib_id "Power_Protection:USBLC6-2P6")
 		(at 238.76 48.26 0)
-		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8249,7 +8248,7 @@
 		(dnp no)
 		(uuid "781300c7-7a83-467c-83ae-deebb1e86fdb")
 		(property "Reference" "U17"
-			(at 237.1089 40.64 0)
+			(at 240.4111 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8260,7 +8259,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2P6"
-			(at 237.1089 43.18 0)
+			(at 240.4111 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8271,7 +8270,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-666"
-			(at 237.744 54.991 0)
+			(at 239.776 54.991 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8284,7 +8283,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
-			(at 237.744 56.896 0)
+			(at 239.776 56.896 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10799,7 +10798,6 @@
 	(symbol
 		(lib_id "Power_Protection:USBLC6-2P6")
 		(at 238.76 85.09 0)
-		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10809,7 +10807,7 @@
 		(dnp no)
 		(uuid "c85b191e-b1ce-4b78-a131-8646a1660422")
 		(property "Reference" "U18"
-			(at 237.1089 77.47 0)
+			(at 240.4111 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10820,7 +10818,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2P6"
-			(at 237.1089 80.01 0)
+			(at 240.4111 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10831,7 +10829,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-666"
-			(at 237.744 91.821 0)
+			(at 239.776 91.821 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10844,7 +10842,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
-			(at 237.744 93.726 0)
+			(at 239.776 93.726 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

@@ -4006,7 +4006,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.228 48.26) (xy 173.228 40.64)
+			(xy 176.53 43.18) (xy 176.53 40.64)
 		)
 		(stroke
 			(width 0)
@@ -4233,6 +4233,16 @@
 			(type default)
 		)
 		(uuid "283876db-d96a-4fba-a0bb-b8de4a940909")
+	)
+	(wire
+		(pts
+			(xy 176.53 40.64) (xy 173.228 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bb488b3-f000-49a3-955b-0356412dcb92")
 	)
 	(wire
 		(pts
@@ -4663,6 +4673,16 @@
 			(type default)
 		)
 		(uuid "7190258d-4b00-44bf-aed2-6445aea48188")
+	)
+	(wire
+		(pts
+			(xy 181.61 27.94) (xy 173.228 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "736e4a9f-448a-42cd-8cf1-14cf6fcf0a7b")
 	)
 	(wire
 		(pts
@@ -6596,7 +6616,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint_Probe")
-		(at 173.228 35.56 0)
+		(at 181.61 27.94 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6607,7 +6627,7 @@
 		(fields_autoplaced yes)
 		(uuid "13e898e2-6953-4f63-b9a4-06db3d9aa17b")
 		(property "Reference" "TP7"
-			(at 177.038 32.7024 0)
+			(at 185.42 25.0824 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6618,7 +6638,7 @@
 			)
 		)
 		(property "Value" "TestPoint_Probe"
-			(at 177.038 35.2424 0)
+			(at 185.42 27.6224 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6629,7 +6649,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 178.308 35.56 0)
+			(at 186.69 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6640,7 +6660,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 178.308 35.56 0)
+			(at 186.69 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6651,7 +6671,7 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
-			(at 173.228 35.56 0)
+			(at 181.61 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8985,7 +9005,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 173.228 55.88 0)
+		(at 176.53 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8996,7 +9016,7 @@
 		(fields_autoplaced yes)
 		(uuid "7b23e271-514b-42d9-8d9d-cbfd40fd33c4")
 		(property "Reference" "#PWR071"
-			(at 173.228 62.23 0)
+			(at 176.53 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9007,7 +9027,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 173.228 60.96 0)
+			(at 176.53 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9017,7 +9037,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.228 55.88 0)
+			(at 176.53 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9028,7 +9048,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.228 55.88 0)
+			(at 176.53 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9039,7 +9059,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 173.228 55.88 0)
+			(at 176.53 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9627,7 +9647,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 173.228 52.07 0)
+		(at 176.53 46.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9638,7 +9658,7 @@
 		(fields_autoplaced yes)
 		(uuid "8c4e5591-4598-4d29-8ab4-88981cb3d18f")
 		(property "Reference" "R4"
-			(at 175.768 50.7999 0)
+			(at 179.07 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9649,7 +9669,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 175.768 53.3399 0)
+			(at 179.07 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9660,7 +9680,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 171.45 52.07 90)
+			(at 174.752 46.99 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9671,7 +9691,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.228 52.07 0)
+			(at 176.53 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9682,7 +9702,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 173.228 52.07 0)
+			(at 176.53 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

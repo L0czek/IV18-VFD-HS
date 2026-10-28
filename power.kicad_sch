@@ -5364,6 +5364,12 @@
 		(uuid "48344c71-6316-4d9b-b41b-394e89f4edd2")
 	)
 	(junction
+		(at 44.45 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5353d95f-d859-43f7-85ba-aae6b4c44aea")
+	)
+	(junction
 		(at 100.33 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5757,6 +5763,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 30.48) (xy 45.72 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2067a514-8362-4943-b1ae-fa5a5a03db39")
+	)
+	(wire
+		(pts
 			(xy 149.86 24.13) (xy 151.13 24.13)
 		)
 		(stroke
@@ -5784,6 +5800,16 @@
 			(type default)
 		)
 		(uuid "275229c8-f7f5-4759-8991-94ec484c2e77")
+	)
+	(wire
+		(pts
+			(xy 44.45 20.32) (xy 44.45 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27817aef-84ec-41c2-81e6-f2a0b145475f")
 	)
 	(wire
 		(pts
@@ -5817,7 +5843,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 30.48) (xy 45.72 30.48)
+			(xy 43.18 30.48) (xy 44.45 30.48)
 		)
 		(stroke
 			(width 0)
@@ -5914,6 +5940,16 @@
 			(type default)
 		)
 		(uuid "47a450fe-ba9d-4668-b832-2055f48af7ad")
+	)
+	(wire
+		(pts
+			(xy 36.83 20.32) (xy 44.45 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48447ac2-9e62-452f-a45b-115d417acb50")
 	)
 	(wire
 		(pts
@@ -7274,6 +7310,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "VBUS_FUSED"
+		(shape input)
+		(at 36.83 20.32 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "753aa813-6c3c-40e9-ad57-3e59930d25c7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 21.931 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)

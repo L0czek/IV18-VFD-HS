@@ -3825,6 +3825,12 @@
 		(uuid "764937db-97c8-4b08-ac2e-54862b0a3921")
 	)
 	(junction
+		(at 147.32 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d17b0f0-3972-45a8-9bf1-b9bb2c76c5f8")
+	)
+	(junction
 		(at 62.738 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4146,6 +4152,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 59.69) (xy 147.32 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e9d122f-ac10-4b55-ba98-97c94f1eb943")
+	)
+	(wire
+		(pts
 			(xy 71.628 44.45) (xy 71.628 46.99)
 		)
 		(stroke
@@ -4393,6 +4409,16 @@
 			(type default)
 		)
 		(uuid "3bcbe451-42fc-4b83-8fc1-a30e5850834d")
+	)
+	(wire
+		(pts
+			(xy 147.32 59.69) (xy 150.368 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3be2ae48-6c86-4c4c-b3c9-25e13e14d059")
 	)
 	(wire
 		(pts
@@ -4976,7 +5002,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.748 59.69) (xy 141.478 59.69)
+			(xy 135.89 59.69) (xy 134.62 59.69)
 		)
 		(stroke
 			(width 0)
@@ -5796,7 +5822,7 @@
 	)
 	(global_label "ETANOL_SENSOR_HEAT"
 		(shape input)
-		(at 141.478 59.69 180)
+		(at 134.62 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5806,7 +5832,7 @@
 		)
 		(uuid "33157249-9272-4a8d-893d-2242ac9ca70e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 117.6286 59.69 0)
+			(at 110.7706 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9762,6 +9788,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 147.32 63.5 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8c98c177-eb10-454c-bac1-edb6c062f1e3")
+		(property "Reference" "R8"
+			(at 149.86 62.2299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 149.86 64.7699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 145.542 63.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 147.32 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 147.32 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "83ca9e05-b436-46f6-b2b2-7752e83107c7")
+		)
+		(pin "1"
+			(uuid "03eacaed-0823-4202-b2e8-05bec76c09f1")
+		)
+		(instances
+			(project "iw18-hs"
+				(path "/9f21d1c7-829c-4910-99a9-b9bc821490d3/cc3711de-cfeb-4aec-8a45-cd304d109296"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 109.22 80.01 0)
 		(unit 1)
@@ -11456,7 +11564,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 146.558 59.69 90)
+		(at 139.7 59.69 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11467,7 +11575,7 @@
 		(fields_autoplaced yes)
 		(uuid "d7807256-3893-4cdb-94b3-4e351650ee73")
 		(property "Reference" "R5"
-			(at 146.558 53.34 90)
+			(at 139.7 53.34 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11477,7 +11585,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 146.558 55.88 90)
+			(at 139.7 55.88 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11487,7 +11595,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 146.558 61.468 90)
+			(at 139.7 61.468 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11498,7 +11606,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.558 59.69 0)
+			(at 139.7 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11509,7 +11617,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 146.558 59.69 0)
+			(at 139.7 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12033,6 +12141,84 @@
 			(project "iw18-hs"
 				(path "/9f21d1c7-829c-4910-99a9-b9bc821490d3/cc3711de-cfeb-4aec-8a45-cd304d109296"
 					(reference "#PWR079")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 147.32 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e87cf0a6-3150-483f-b01c-cc16b1c6f05d")
+		(property "Reference" "#PWR0157"
+			(at 147.32 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 147.32 72.39 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 147.32 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 147.32 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 147.32 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "468d7a36-73a3-414d-a6a1-0a12ba606acf")
+		)
+		(instances
+			(project "iw18-hs"
+				(path "/9f21d1c7-829c-4910-99a9-b9bc821490d3/cc3711de-cfeb-4aec-8a45-cd304d109296"
+					(reference "#PWR0157")
 					(unit 1)
 				)
 			)

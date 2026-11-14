@@ -5372,16 +5372,6 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 49.53) (xy 256.54 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e96ecbc7-fc8f-4fc0-985d-8f7008517dd7")
-	)
-	(wire
-		(pts
 			(xy 142.748 35.56) (xy 142.748 40.64)
 		)
 		(stroke
@@ -6145,30 +6135,6 @@
 		(uuid "a42caa9f-91c9-4668-ba69-e26d30eb692a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 155.9294 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "PROGRAM_PD_CONTROLLER"
-		(shape input)
-		(at 256.54 49.53 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "aac6b9a4-3a9e-4072-9415-0e22c8b99a84")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 284.9252 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

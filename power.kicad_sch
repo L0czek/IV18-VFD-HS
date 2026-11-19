@@ -12462,7 +12462,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "120"
 			(at 137.16 20.32 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14357,7 +14357,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED LED"
 			(at 144.4625 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15213,7 +15213,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "390"
 			(at 106.68 74.9299 0)
 			(show_name no)
 			(do_not_autoplace no)

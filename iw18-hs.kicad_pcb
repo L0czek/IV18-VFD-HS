@@ -228,6 +228,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f02fb5c-d38d-4f58-bb09-eaab51561920")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/678389df-756d-4139-a889-d8348cede791")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
@@ -237,7 +250,7 @@
 				(pins "1" "2" "3")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 3.11 3.449999)
@@ -604,6 +617,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "385c3dbc-e9f9-4b91-950c-084f4038f838")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/6aa6ef36-2a5a-4f60-9886-c5996abcb688")
 		(sheetname "/Powerbank/")
@@ -614,7 +640,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -779,6 +805,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de21457e-dce5-4405-904a-8317e27f73db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/245ed9df-b7fe-46cc-b9c9-4c4420ad9914")
 		(sheetname "/Periph/")
@@ -789,7 +828,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 -0.735)
@@ -925,6 +964,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc3c08b8-0f59-4803-8608-15e3ac9f9005")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1160,6 +1212,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8e393a7-7f37-4e53-83cc-96f2e9680784")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3e07ca6e-3522-47fc-9231-e428a2c232ac")
 		(sheetname "/")
@@ -1375,6 +1440,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1871ecb-f6d4-409c-a29e-dfc6a55843b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/ec2c83cb-3308-445e-b294-ba7b6b8d197a")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
@@ -1544,6 +1622,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc2d39c6-a075-4862-9acf-4eeb65d662f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1789,6 +1880,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "93612652-cba5-42cd-9a03-e4e7f07bcda6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ce7cf172-9fe7-4181-8cc0-0492f415906e")
 			(effects
 				(font
 					(size 1 1)
@@ -2253,6 +2357,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4114d957-7294-4bb1-9082-cb3145f4f39e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/91abccf0-41c3-4833-865d-553a68ddb42a")
 		(sheetname "/Power/")
@@ -2428,6 +2545,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3a96cae-b8c9-4df1-9681-aead43b8b2b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/b3a19a39-6034-41ea-bdc7-cecc3a73c1ff")
 		(sheetname "/Power/")
@@ -2438,7 +2568,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 -0.735)
@@ -2581,6 +2711,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35949730-37ff-4efd-85dc-1dec2cfe0e03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/0ffde569-1978-4b39-a8bf-1d5d2c0e5a8d")
 		(sheetname "/Power/")
@@ -2684,6 +2827,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7cea4c34-acfc-4ebb-b68b-f3f8ad63349e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2833,6 +2989,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90d08eab-6861-41ad-a49d-0853ffb5a700")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3068,6 +3237,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ecc0f52-0989-4e11-aaab-d93f184732a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/2a1c92bb-303b-48f0-9045-96eee6b0301f")
 		(sheetname "/Powerbank/")
@@ -3078,7 +3260,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -3221,6 +3403,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b97892ca-fa53-40df-97d9-408125c2aad6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/13e898e2-6953-4f63-b9a4-06db3d9aa17b")
 		(sheetname "/Periph/")
@@ -3348,6 +3543,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3112cc5c-0b74-482d-8b50-b068781e2959")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f271a7d7-69e7-43b8-baf8-9a2893728877")
 			(effects
 				(font
 					(size 1 1)
@@ -3530,6 +3738,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "678787aa-a0d1-4ec6-8c29-d1c440d6a0a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/229b4268-e89f-4c44-8753-d8c7500d59a5")
 		(sheetname "/Powerbank/")
@@ -3540,7 +3761,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -3676,6 +3897,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17f1f061-33e1-4bd9-ab6f-b3af99cb9381")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4075,6 +4309,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7bb1011-5600-40c7-adc1-ac2f974b39f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/2187c2d1-f2e7-4836-b903-b2ccb112f31f")
 		(sheetname "/Powerbank/")
@@ -4085,7 +4332,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -4221,6 +4468,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e8af34e-2ab3-46ac-8ebf-8a2138263e08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4572,6 +4832,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a02d4e19-47c4-4c5e-a68d-c8cec581cc26")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5173,6 +5446,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1b3ce99-68f6-4937-8807-bea941b5f45d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8e7f76d4-839c-4dcb-acb3-68521c58dc5b")
 		(sheetname "/")
@@ -5322,6 +5608,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f68efa9d-b50d-44c9-9e81-7ba8b2ed3d0b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5623,6 +5922,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "66f5983f-a9a8-410c-aa71-67b85eb1cbb0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f597c7d5-27ed-4b1d-8509-f2e04895748d")
 			(effects
 				(font
 					(size 1 1)
@@ -6089,6 +6401,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4070dea1-6e31-4759-8dc9-f81c3cd798a5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/7bdf19e4-77c3-4e45-95bf-063e084a8057")
 		(sheetname "/Powerbank/")
@@ -6099,7 +6424,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.107836 0.36)
@@ -6264,6 +6589,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b82b841e-d452-4923-90eb-ebf4bd38b3e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/2ae53512-661c-4a9f-b633-8837dff6f3bd")
 		(sheetname "/Power/")
@@ -6274,7 +6612,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 -0.735)
@@ -6439,6 +6777,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d2e46b7-24be-409e-8fbd-6de515d85d1c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/f93dd056-6491-478f-9ce4-5e26aa72c52b")
 		(sheetname "/Powerbank/")
@@ -6449,7 +6800,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -6614,6 +6965,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4101100-bea0-4593-8975-f95a81ddeb02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c030a1bd-ebf4-4a57-b935-ecb084ff3cc2")
 		(sheetname "/")
@@ -6624,7 +6988,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -6763,6 +7127,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5900e6f0-3921-4ac5-a5ac-ecb98345af0c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6991,7 +7368,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "390"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "ce06b44f-8776-439d-a8d0-36ae752efc04")
@@ -7021,6 +7398,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08de2bdf-14ce-42f7-ae6c-d2f734400c1c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7170,6 +7560,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1214fdb9-008f-4e97-a021-f8326181558e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7348,6 +7751,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2214d32-c9fd-4d11-821a-c8d6dbbf68f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/d72ba284-7892-420b-bdc8-1135f7a4199e")
 		(sheetname "/Periph/")
@@ -7358,7 +7774,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 -0.735)
@@ -7497,6 +7913,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38ed6e05-c243-4d94-a019-c36d0b2abd9b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7811,6 +8240,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "82a42ec5-b87c-459f-8e2b-ca0381361b56")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8141,6 +8583,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c291bca8-4c12-4b10-bb72-48f4e31a785c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/2010a26f-8534-4962-86f0-57fb4b0704a4")
 		(sheetname "/Power/")
@@ -8275,6 +8730,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc53504e-8e4b-4aa2-b75a-eb4dd0e5e617")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4b7c873c-9def-4b97-af75-c1d33b250728")
 		(sheetname "/")
@@ -8285,7 +8753,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -8447,6 +8915,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "00106eee-c9ed-4a62-8de0-8fd81759e6f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb614ad9-f58d-4c6c-bd9d-b3965c6f5554")
 			(effects
 				(font
 					(size 1 1)
@@ -8750,6 +9231,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29521ce5-429b-4917-a6c5-292d9affae21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/1b26ee04-43e0-4dc0-a1bd-06544a4a9b67")
 		(sheetname "/Power/")
@@ -8875,6 +9369,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "37a2c2b1-f5ed-439c-972c-7956d4142b8a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e7273de-7aaf-4b3a-aa41-236a9c129059")
 			(effects
 				(font
 					(size 1 1)
@@ -9050,6 +9557,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8229efb0-eaf1-45bb-a364-c363f241d5a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed1cd62f-daf1-4146-8ec7-01abf6dcab60")
 			(effects
 				(font
 					(size 1 1)
@@ -9236,6 +9756,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10089f91-da8e-4033-979f-c380e139d262")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?666*")
 		(path "/781300c7-7a83-467c-83ae-deebb1e86fdb")
 		(sheetname "/")
@@ -9246,7 +9779,7 @@
 				(pins "1" "3" "5" "2" "6" "4")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.65 0.99)
@@ -9541,6 +10074,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a10f59e3-c92b-4194-9d9e-5aa784627795")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/e72f7542-5f3c-43da-93d5-cbb52d6d4840")
 		(sheetname "/Power/")
@@ -9687,6 +10233,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d988eeba-36a4-4e5d-9280-451d56af569a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10201,6 +10760,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64e3a43d-b607-47b2-839a-25a3c5a85031")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/332e9894-8c3b-40e8-8db9-089dad7c4ef5")
 		(sheetname "/Power/")
@@ -10326,6 +10898,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e8dbf471-b2b8-414f-8bd1-1204142d3d4f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c2d578ef-47f9-4292-89e3-f8c61354ce8f")
 			(effects
 				(font
 					(size 1 1)
@@ -10506,6 +11091,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "50b1a5b0-309b-4cd6-ad9f-8a74868e6bac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4e749914-6693-437a-bef5-a83decf908a8/6fb78c40-50cd-4715-a289-783f5d06f877")
 		(sheetname "/VFD/")
@@ -10516,7 +11114,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 -0.735)
@@ -10704,6 +11302,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "82e75d6b-fcfe-442b-880d-3febad4ce3e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e053ef0-ab45-47dd-ae75-22bc29b36140")
 			(effects
 				(font
 					(size 1 1)
@@ -11014,6 +11625,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fcefe2bb-5a4a-4a94-b63f-182293512603")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/df04b48b-cd2a-4179-876e-456a433e142d")
 		(sheetname "/Powerbank/")
@@ -11024,7 +11648,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -11160,6 +11784,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "025c34a8-ec0e-4d37-9b83-bc9430d8a8c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11683,6 +12320,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aab84c24-0cc4-4c24-9abb-3c2e01e7ead4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/f7c68a21-803f-4a96-aceb-51dd517040b3")
 		(sheetname "/Power/")
@@ -11832,6 +12482,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b599a28-2408-4172-95b4-fa22cf8a847e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/e35740d6-1d7e-4354-8dc7-5e12f23c9ae0")
 		(sheetname "/Power/")
@@ -11948,7 +12611,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "120"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "38e440c6-914a-48d5-b960-b75843e35f95")
@@ -11978,6 +12641,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7f886d0e-3283-4f8c-8692-97d3219a2bdc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12156,6 +12832,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9aa41ac-c938-4778-b89f-9727661c3726")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/d018e827-000f-4221-9751-5a7ccd00278c")
 		(sheetname "/Power/")
@@ -12305,6 +12994,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cdbc09d2-e744-4f2b-a683-d1f90b9c8054")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12657,6 +13359,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5766eefa-a26a-44f7-bc0d-da2489b2e25b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/04f6eecf-7d3e-4ec8-ade8-e471a4433920")
 		(sheetname "/")
@@ -12806,6 +13521,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec123aa1-82e3-419e-928f-8346adb9a3e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/d7807256-3893-4cdb-94b3-4e351650ee73")
 		(sheetname "/Periph/")
@@ -12952,6 +13680,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e54da8f2-1810-463e-b3f8-c6458049171e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13464,6 +14205,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e09b8626-60f1-4644-9642-95337de6d3ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?666*")
 		(path "/74295771-f7a4-43cb-b34d-a5f46df5641d")
 		(sheetname "/")
@@ -13474,7 +14228,7 @@
 				(pins "1" "3" "5" "2" "6" "4")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.65 0.99)
@@ -13769,6 +14523,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8d218075-488c-452d-a14f-b282c21ae920")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/1ec2c24c-15f0-4823-a159-aa5505474fe9")
 		(sheetname "/Powerbank/")
@@ -13779,7 +14546,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.107836 0.36)
@@ -13944,6 +14711,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e7ef2bcd-925a-41c6-9746-d71298ae8acf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4b0b0142-c959-40be-804b-46a3cb1f66b0")
 		(sheetname "/")
@@ -13954,7 +14734,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -14103,6 +14883,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fc0383ee-3724-458b-9af5-fe826d3f736d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41fdae47-4632-45dd-a844-00555e7fe3eb")
 			(effects
 				(font
 					(size 1 1)
@@ -14420,6 +15213,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ca920436-1431-4bb7-8020-0bb53779e745")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76247e13-a3f9-470c-ba82-5d7a5f6d102b")
 			(effects
 				(font
 					(size 1 1)
@@ -14960,6 +15766,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8d7c8d19-a6fe-4816-a4ba-ff2d81b5a1ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/06633917-0e4f-4b72-bbdc-779e938cbbf8")
 		(sheetname "/Periph/")
@@ -15334,7 +16153,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED LED"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "9c38dcc1-0520-444d-9665-be7f8fa9069f")
@@ -15373,6 +16192,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "16f8f181-0d52-4970-9872-d39209e81945")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17cd8266-9f1b-43e3-a63f-188771fbf27e")
 			(effects
 				(font
 					(size 1 1)
@@ -15583,6 +16415,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b804f0b5-8d6c-4a7e-b53a-1611e71c2e6a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/b68d63d7-8fc3-4cc2-af1a-6a8e60abb99e")
 		(sheetname "/Power/")
@@ -15717,6 +16562,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27c696b1-d0f8-45f4-88cc-29f20a37f016")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/4456869c-c92e-4bd4-a541-c3ec89d8ab2e")
 		(sheetname "/Periph/")
@@ -15727,7 +16585,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 -0.735)
@@ -15892,6 +16750,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae466343-3651-45e2-9c3b-635f5fe90ee8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/69026d6b-284e-4c88-afeb-2a5b5b934bcc")
 		(sheetname "/Power/")
@@ -16045,6 +16916,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "831f62fd-2fc8-4d84-a623-5c2c7b6b0107")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/734fc3a0-9a9f-468b-9943-7f1638d4b48f")
 		(sheetname "/Power/")
@@ -16148,6 +17032,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d664bbcc-b44e-45fa-9227-05b16b2d5956")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16383,6 +17280,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "751de681-1af6-4f12-aa03-56d531f7cfe8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/75d4dbca-efbe-47a1-9829-276715aa8060")
 		(sheetname "/")
@@ -16558,6 +17468,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b9d0d551-386d-4ea9-8528-f0c14ce3adc0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/4ec434b6-8c68-4b79-aa46-931dc2dffee9")
 		(sheetname "/Power/")
@@ -16704,6 +17627,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fee002b7-8fb4-418f-889b-76bb287c78d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17082,6 +18018,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a18fa46a-f5ad-4ba6-a518-57c0ee6de6d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/f922675a-3c64-49f1-ba8d-d9379c767608")
 		(sheetname "/")
@@ -17386,6 +18335,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "299c5edd-7f41-4729-8beb-4e1a3b2773e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?666*")
 		(path "/c85b191e-b1ce-4b78-a131-8646a1660422")
 		(sheetname "/")
@@ -17396,7 +18358,7 @@
 				(pins "1" "3" "5" "2" "6" "4")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.65 0.99)
@@ -17662,6 +18624,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b03e4709-e139-4456-96e7-bdc6f3c64473")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18142,6 +19117,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba42fa73-7692-4253-af3d-a9ff550ec62a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/160c295e-33fe-422d-9474-dd326d3b2738")
 		(sheetname "/Power/")
@@ -18310,6 +19298,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8d488e11-b4b8-4ed6-b89a-2215701aea7a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9196e4be-6bd2-4d06-ad86-d7685ca7dc57")
 			(effects
 				(font
 					(size 1 1)
@@ -18514,6 +19515,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e684f6e8-7990-4f47-a500-f4e2a46c6594")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/de4ad9c7-f806-4885-a267-37e92841fd01")
 		(sheetname "/Powerbank/")
@@ -18687,6 +19701,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "00220162-1749-48cd-8066-853d0f27ea09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c2ae1e7c-556c-4f1f-87bf-3b0c9aedee93")
 		(sheetname "/")
@@ -18697,7 +19724,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -18855,6 +19882,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "07ffa9a0-fd83-4be2-969e-7bbb6034b501")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05564797-a5a9-4e97-9f62-dfb3a9d0318c")
 			(effects
 				(font
 					(size 1 1)
@@ -19037,6 +20077,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ce56602-cb25-4772-84df-dc66b8bd53a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/da952194-2790-4375-8dbd-7b57149855d1")
 		(sheetname "/Periph/")
@@ -19047,7 +20100,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -19218,6 +20271,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "48748c3f-59d7-4e9a-b8f7-0e2c8da3f659")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef031d74-c16e-4282-9198-878fea65e043")
 			(effects
 				(font
 					(size 1 1)
@@ -19816,6 +20882,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0020486-4058-4fc6-95d2-2fe468a2e92f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/3dc4b6d0-1467-4763-9a05-7c551d8673c4")
 		(sheetname "/Powerbank/")
@@ -19969,6 +21048,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e233048c-4b8e-4b4a-8866-63526d1033e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "143a8775-fcf1-4b49-bfdd-73fe768f50a7")
 			(effects
 				(font
 					(size 1 1)
@@ -20379,6 +21471,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "32a7efa1-c0e6-44d5-b33f-4d0d963167d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07fdd960-03e1-4f3d-93ce-37f2fe768d81")
 			(effects
 				(font
 					(size 1 1)
@@ -21000,6 +22105,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d231e78e-652a-47cd-9100-713aafd65c12")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LGA*3x2.5mm*P0.5mm*LayoutBorder3x4y*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/fd002107-6333-4ead-a0a7-6fb2b77bc578")
 		(sheetname "/Periph/")
@@ -21356,6 +22474,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0bafcea-8494-41d4-9980-9ad52729ccde")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/4b8807f1-d4da-4736-92bc-87f289c89f7e")
 		(sheetname "/Power/")
@@ -21500,6 +22631,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eadbaa90-7169-409d-a61f-9e6ce46398bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22306,6 +23450,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cc63ac6-72c5-4a56-b8fa-0be021058d55")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/f56be549-cd44-4098-bf51-8da0bdb563f4")
 		(sheetname "/Periph/")
@@ -22739,6 +23896,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "226018ed-0665-448d-92b5-f1e6316907cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/39c68d18-20a9-4d89-b9a9-539a573bde9a")
 		(sheetname "/Powerbank/")
@@ -22749,7 +23919,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -22914,6 +24084,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04148c58-1253-4365-8ae2-d31e659cb1d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/eef98d7e-cceb-4df7-ae18-c2d7b7410756")
 		(sheetname "/Power/")
@@ -22924,7 +24107,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -23082,6 +24265,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c64406c7-5d7c-4aaa-9d05-4c709b4e3a64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ca027b8d-a9ab-4146-a005-70a017ee5e95")
 			(effects
 				(font
 					(size 1 1)
@@ -23264,6 +24460,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e610d6d9-b9e5-4371-b74b-52cc81fe254b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a051984e-3ee9-430d-9009-a7ea4eea9690")
 		(sheetname "/")
@@ -23439,6 +24648,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27c06948-3837-4f8d-a9d1-18655ea2551f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/525fb34f-376a-4620-ad53-e517062c851b")
 		(sheetname "/Periph/")
@@ -23449,7 +24671,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 -0.735)
@@ -23614,6 +24836,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "96235943-4efc-4b2a-bad2-47965d7ef65e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/63823856-a9e2-4bc3-ac8d-deb4a99e7b8e")
 		(sheetname "/Power/")
@@ -23624,7 +24859,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261252 0.735)
@@ -23787,6 +25022,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d93bc8d-5dcf-45d8-a3df-812cd69bba0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/88de6c6e-ef49-4e57-b643-1594d8700f9f")
 		(sheetname "/Power/")
@@ -23933,6 +25181,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5cfc6a56-8e4c-476a-ad56-a6d1984a6f4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24089,6 +25350,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7935441f-6fbe-4f05-8e10-418a625a8da7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/682e8941-7b45-481b-9268-7b8c47bff06e")
 		(sheetname "/Power/")
@@ -24221,6 +25495,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd63511b-2013-4406-805c-31d3318be05f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/d9df0d8f-f131-4975-9e6f-2bd8a3769f8e")
 		(sheetname "/Powerbank/")
@@ -24231,7 +25518,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.107836 0.36)
@@ -24394,6 +25681,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a121a423-f873-42a7-b05c-034833dcf9f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/7ce7b54f-32f3-4be8-852a-ea2490390124")
 		(sheetname "/Powerbank/")
@@ -24404,7 +25704,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 -0.735)
@@ -24540,6 +25840,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a52d3712-2428-4b75-ad51-5b1849d5a921")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24718,6 +26031,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "919035f6-98e6-46a1-8e85-2e9867a931c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/1f4d7c77-836b-4ddc-8079-a69bac6b6ffa")
 		(sheetname "/Periph/")
@@ -24728,7 +26054,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -24886,6 +26212,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7c066e39-4a7c-4a00-a1df-4d1a02febb6e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09c1c570-dd4e-41b3-8bc7-732ef1bdf56f")
 			(effects
 				(font
 					(size 1 1)
@@ -25068,6 +26407,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a304a1a-f4a9-4fb7-b84a-dcced15da672")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/746acd23-e214-4eda-bfc1-1cc56edab242")
 		(sheetname "/Powerbank/")
@@ -25078,7 +26430,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -25238,6 +26590,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cee24c4c-8fbc-47fe-a495-47d851e4ea07")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c28c292-07c7-43c1-8643-54db96b26424")
 			(effects
 				(font
 					(size 1 1)
@@ -25520,6 +26885,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7fd1f490-f511-4307-9bf6-42bfad25404a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/53ee18ab-7919-4137-92e6-29f5d0258ef0")
 		(sheetname "/Powerbank/")
@@ -25530,7 +26908,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -25666,6 +27044,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e1557e1-06bf-4375-b488-f43a2737765a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -25844,6 +27235,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8c8d682-ac44-4e32-bcdd-096f81a2d043")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/60ef24bc-87cf-43fa-8e06-9278a10b65e5")
 		(sheetname "/Periph/")
@@ -25854,7 +27258,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 -0.735)
@@ -25997,6 +27401,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18e10dc8-5dde-4d3f-8b94-cf8528c827df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/158d2024-5725-4fed-83bc-fe0f114d0b76")
 		(sheetname "/Power/")
@@ -26105,6 +27522,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a029c28-a610-4b86-af69-fb15cac782a9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -26457,6 +27887,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "51a67496-70ca-4fcf-95f2-13387b777c5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/8110d431-e88c-49f5-b38c-9c276890163f")
 		(sheetname "/Power/")
@@ -26625,6 +28068,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "89c9ae61-cf45-41ab-86bd-6f246a92c702")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5cb11b3-0c73-49a2-aca0-f9fd5fdb5dfe")
 			(effects
 				(font
 					(size 1 1)
@@ -26807,6 +28263,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb809b29-cabf-425b-a97c-04e1b5fd922d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/1d353e88-89c7-4e62-8629-e4238431ac11")
 		(sheetname "/Power/")
@@ -26817,7 +28286,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 -0.735)
@@ -26979,6 +28448,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "36208098-16bf-49a7-bc06-a6e4d1fe9a31")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb073786-7972-4241-802e-233f97c00202")
 			(effects
 				(font
 					(size 1 1)
@@ -27257,6 +28739,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9274238e-04a0-49fe-a0a5-1ff54f30f925")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f47c4f4e-3c60-4092-ac8a-4f271ffb0e8d")
 		(sheetname "/")
@@ -27403,6 +28898,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90df3dd7-f94b-427c-b5e0-a47e6401ea9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28197,6 +29705,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "426aaad2-422b-4a46-8930-c5c1d2ab505b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/77091a2d-b674-40a7-af94-97ff4763faca")
 		(sheetname "/")
@@ -28429,6 +29950,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd0d20e7-fbe6-4992-80b4-fbe2c64c2dfd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3d5607bb-68ee-41b1-a1ad-03e1b1c79561")
 		(sheetname "/")
@@ -28597,6 +30131,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b2a255a2-ca5b-4b30-8a57-5101b4bd455b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f986ca35-4d9d-4e3a-a47f-05724e2656dd")
 			(effects
 				(font
 					(size 1 1)
@@ -28852,6 +30399,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e9c60d6-2d1e-4c08-bf1e-a3dc78b38514")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/b24f9b36-eb40-4aee-9daf-c2784d88c8f9")
 		(sheetname "/Powerbank/")
@@ -28862,7 +30422,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -28998,6 +30558,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b5c7f20-2cb0-4b29-afcc-47893f483b3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29694,6 +31267,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "930bcb7c-4dec-4617-99c4-db2fa2ab369d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/7bee0000-9085-49fa-b774-dca6fc9185de")
 		(sheetname "/Power/")
@@ -29843,6 +31429,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b721e9da-ae76-4a0a-8aa2-40aceebf0089")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -30314,6 +31913,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "580cbe3e-6b1b-4126-8e06-b22bf0634b98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/fdb5d120-7485-4177-9891-95f32969ee95")
 		(sheetname "/Periph/")
@@ -30324,7 +31936,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -30460,6 +32072,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "583a34b8-4e0f-4229-81a2-23372d3ecdb7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30636,6 +32261,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4fa16e25-f54d-4171-9831-15a72a531f94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0bdd8ea9-25d3-4987-90ea-e0875a81f277/679b0042-3123-4d73-a7d5-74973d7efcd4")
 		(sheetname "/Powerbank/")
@@ -30646,7 +32284,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -30804,6 +32442,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bc2ba450-0c12-4d28-8dbf-c83c76ed02da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6cf179c-fefc-4a9f-9b12-048dfab19113")
 			(effects
 				(font
 					(size 1 1)
@@ -30986,6 +32637,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e6f31504-c0ed-4e00-850a-34317e6d8d71")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/794352ed-401e-465f-a877-49e5f61e5b45")
 		(sheetname "/Periph/")
@@ -30996,7 +32660,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -31161,6 +32825,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2f777b4-391f-49ae-80a9-56b4c75e1a9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/59692a2d-63d6-454c-9e26-e2d5ff828b5c")
 		(sheetname "/Power/")
@@ -31307,6 +32984,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "257eef05-a7c7-4c34-a1e0-40041ba8355b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31485,6 +33175,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad34e81e-75d0-478e-b794-084ee3fdb0db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f6d7f70e-0f19-4487-8286-3f241823d2ab")
 		(sheetname "/")
@@ -31495,7 +33198,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 -0.735)
@@ -31638,6 +33341,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dcf87d65-c9fe-405d-85ea-e86dc9ad1c87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/ad933d96-6e1b-42ef-a1c9-6c18456cbc79")
 		(sheetname "/Power/")
@@ -31772,6 +33488,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c67f62c8-9163-4cbe-8fbe-fc00a0e6442f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/12592fc4-a941-4b45-b9be-d3f3551ad2b7")
 		(sheetname "/Power/")
@@ -31782,7 +33511,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -31947,6 +33676,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d5a3e023-4df2-4315-bec4-f0137235575b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/cc369a01-1f3b-4b1a-a00d-1ca328c0c6c9")
 		(sheetname "/Power/")
@@ -31957,7 +33699,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 -0.735)
@@ -32122,6 +33864,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "70424096-3fc8-4d20-b342-c03eb0bc829f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6b4aed28-ff69-41de-bba5-d678791155ce/6484f865-49bf-45b6-9049-f7bbade0b612")
 		(sheetname "/Power/")
@@ -32271,6 +34026,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07aa3957-4481-4fb6-b08a-c3daa8765ead")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -32597,6 +34365,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0908df75-32f5-4b9b-88f8-5c3f84ced4b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/39e6853e-9f80-481a-984f-d967003bf0f9")
 		(sheetname "/")
@@ -32803,6 +34584,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b9bfbfb3-a801-47ba-b3e4-8b88a32d4859")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -33317,6 +35111,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "61816a9d-76a5-4709-a25d-43075d25e8c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/e294db37-bcfe-482d-b9a0-5ff844d2eb91")
 		(sheetname "/")
@@ -33549,6 +35356,19 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57465fb1-9e52-4a0f-bd87-0ca55a4561df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cc3711de-cfeb-4aec-8a45-cd304d109296/53f9e837-e7f5-44ae-ae02-d0e3d2422653")
 		(sheetname "/Periph/")
@@ -33559,7 +35379,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261253 0.735)
@@ -33701,6 +35521,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c5292223-3a6b-4fd1-bcff-8e5482a81ef0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -34033,20 +35867,6 @@
 				(justify mirror)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "9eb410eb-5d4a-40f6-9b88-38ad347ac91f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
 		(property "Availability" "In Stock"
 			(at 0 0 0)
 			(unlocked yes)
@@ -34067,6 +35887,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0bc85e5a-7191-4781-a76a-a11727380329")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Keystone Electronics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "adee7040-b065-4b24-a040-f6c264319a39")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "19be4251-263f-406d-9ef0-e3d680dd3642")
 			(effects
 				(font
 					(size 1 1)
@@ -34500,20 +36348,6 @@
 				(justify mirror)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "cfb6c5fe-d18b-4868-93a1-394f78c7670b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
 		(property "Availability" "In Stock"
 			(at 0 0 0)
 			(unlocked yes)
@@ -34534,6 +36368,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d1477422-7fa3-449b-a564-cbc761f68fec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Keystone Electronics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "eb4b9a4d-c25d-4418-adbb-24ddb5894e3c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e58cc386-ae29-43e1-887f-5de1313e71cd")
 			(effects
 				(font
 					(size 1 1)

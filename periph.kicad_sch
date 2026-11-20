@@ -6505,6 +6505,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 127 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "027da92a-333c-4b6e-a105-857942f9ac5f")
 		)
@@ -6707,6 +6718,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 181.61 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "84761cd9-409c-4b88-b500-0c73c6f39a15")
 		)
@@ -6881,7 +6903,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -6964,6 +6986,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 209.55 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1557456d-3e81-4805-a49c-15faed3e7eb4")
 		)
@@ -6985,7 +7018,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7058,6 +7091,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 22.86 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 22.86 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -7296,6 +7340,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 100.838 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 100.838 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7567,7 +7622,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7640,6 +7695,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 36.83 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 36.83 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -7827,7 +7893,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7900,6 +7966,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 131.318 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 131.318 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -8009,7 +8086,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8082,6 +8159,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 185.42 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 185.42 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -8408,6 +8496,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 62.738 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f4118f3a-e4d1-4fd9-8a19-dab73ee4c078")
 		)
@@ -8435,7 +8534,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8508,6 +8607,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 51.308 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 51.308 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -8787,6 +8897,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 234.95 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "16"
 			(uuid "6d225cd8-f918-42de-9ae3-842d20c0cd4f")
 		)
@@ -8931,7 +9052,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9004,6 +9125,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 64.008 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 64.008 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -9575,6 +9707,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 155.448 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "025ef67f-3b93-44d3-8de3-30a9b1a2dd95")
 		)
@@ -9738,6 +9881,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 176.53 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ddcd46c0-eada-40c5-8e43-c67b28d34671")
 		)
@@ -9810,6 +9964,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 147.32 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 147.32 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -9970,6 +10135,17 @@
 			)
 		)
 		(property "Description" "4-in-1 sensor, gas, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8"
+			(at 52.07 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 52.07 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -10226,6 +10402,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 43.688 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 43.688 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -10823,6 +11010,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 245.11 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "C"
 			(uuid "8d88867a-c6a1-4314-a5e3-17ada83b31e2")
 		)
@@ -11163,6 +11361,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 157.988 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "40d4ba41-0d96-4359-9b80-814507427b9e")
 		)
@@ -11430,7 +11639,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -11503,6 +11712,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 98.298 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 98.298 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -11593,6 +11813,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 139.7 59.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3a9edd19-ca5c-4874-97e0-97e77342ef90")
 		)
@@ -11614,7 +11845,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -11697,6 +11928,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 199.39 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "59e68fa0-c67c-41b1-9522-c5fc81f5b988")
 		)
@@ -11769,6 +12011,17 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 81.788 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 81.788 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -12411,6 +12664,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 124.46 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "9060fc55-943c-4d94-88d1-e38d794c63a3")
 		)
@@ -12536,6 +12800,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 212.09 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "731f5a56-a707-4fa0-953d-d866a613bead")
 		)
@@ -12593,7 +12868,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -12666,6 +12941,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 83.058 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 83.058 34.29 0)
 			(hide yes)
 			(show_name no)

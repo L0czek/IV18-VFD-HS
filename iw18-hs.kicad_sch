@@ -5594,6 +5594,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 185.42 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dbdca99d-a916-4dfd-8f45-3d88f6b3e40b")
 		)
@@ -6299,6 +6310,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 257.81 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "MP"
 			(uuid "3c1e3612-1fd3-4a3f-b0c3-602831c4830a")
 		)
@@ -6468,6 +6490,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 39.37 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "039a1fe7-354c-4ba0-b908-72479082f369")
 		)
@@ -6559,6 +6592,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 62.23 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 62.23 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -6663,6 +6707,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 48.26 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 48.26 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6833,6 +6888,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 63.5 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bded3865-61e0-404e-8adb-e94cf923506a")
 		)
@@ -6924,6 +6990,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 31.75 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 31.75 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7028,6 +7105,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 195.58 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 195.58 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -7354,6 +7442,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 257.81 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "MP"
 			(uuid "d88396ae-c224-4546-93ee-ac7e3431846a")
 		)
@@ -7623,6 +7722,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 36.83 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "23207c70-e2c3-424b-8831-8fa7b93e1f85")
 		)
@@ -7644,7 +7754,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7727,6 +7837,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 227.33 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ed27bafb-f8a1-4125-8727-3c0e17ff6749")
 		)
@@ -7748,7 +7869,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7821,6 +7942,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 25.4 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 25.4 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -8008,7 +8140,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8083,6 +8215,17 @@
 			)
 		)
 		(property "Comment" "already have"
+			(at 182.88 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 182.88 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -8208,6 +8351,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 48.26 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d1cdf613-b7c9-4791-883f-42f67e2f169f")
 		)
@@ -8290,6 +8444,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 39.37 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b2b027fb-fead-4fd6-956f-62f8aa9db407")
 		)
@@ -8308,7 +8473,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8383,6 +8548,17 @@
 			)
 		)
 		(property "Comment" "already have"
+			(at 238.76 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 238.76 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -8721,6 +8897,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 250.19 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "efdc7008-730b-44fd-96fb-f02ca825be11")
 		)
@@ -8981,6 +9168,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 31.75 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "162c4290-40c9-4679-a95d-f9b94ad37d2a")
 		)
@@ -9075,6 +9273,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 148.59 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 148.59 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -9266,6 +9475,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 64.77 59.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1c1c1bb7-f0b3-4ad6-8f61-ddb7356e8947")
 		)
@@ -9441,6 +9661,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 219.71 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 219.71 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -9747,6 +9978,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 53.34 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "58432358-c181-4139-b446-4b5b7750662d")
 		)
@@ -9929,6 +10171,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 82.55 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9e15bc8d-4617-4f3c-82f2-8c7ad33e7e45")
 		)
@@ -10031,6 +10284,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 64.77 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "ec7d165a-6aa8-4072-98ad-8ff08a46ffba")
 		)
@@ -10109,6 +10373,17 @@
 			)
 		)
 		(property "Description" "ESP32-C6-WROOM-1/U is a module that supports 2.4 GHz Wi-Fi 6 (802.11 ax), Bluetooth® 5 (LE), Zigbee and Thread (802.15.4)"
+			(at 114.3 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 114.3 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -10282,6 +10557,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 63.5 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6888e18c-04f9-4d98-90aa-3d2388e0a881")
 		)
@@ -10378,7 +10664,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -10451,6 +10737,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 138.43 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 138.43 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -10564,6 +10861,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 41.91 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7a49a604-1906-4653-a23c-0341b467e503")
 		)
@@ -10585,7 +10893,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -10658,6 +10966,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 209.55 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 209.55 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -10767,7 +11086,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -10842,6 +11161,17 @@
 			)
 		)
 		(property "Comment" "already have"
+			(at 238.76 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 238.76 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -11180,6 +11510,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 63.5 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "581fe028-7ef3-438b-add8-2d80721422a4")
 		)
@@ -11327,6 +11668,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 39.37 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 39.37 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -11672,6 +12024,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 36.83 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "41677dc4-9844-4fca-bd1c-e11b1383f65e")
 		)
@@ -11771,7 +12134,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -11844,6 +12207,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 19.05 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 19.05 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -12083,6 +12457,17 @@
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
 			(at 255.27 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 250.19 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

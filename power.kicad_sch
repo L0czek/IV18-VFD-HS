@@ -5660,6 +5660,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Consider only one of C4, C5"
+		(exclude_from_sim no)
+		(at 196.088 50.038 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "33b0cfc3-b32f-432b-a5e7-14877e1c0676")
+	)
 	(text "VPP=30V"
 		(exclude_from_sim no)
 		(at 170.434 118.364 0)
@@ -8141,7 +8151,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "50uF"
+		(property "Value" "47uF"
 			(at 181.61 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8175,6 +8185,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 177.8 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 177.8 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -8335,6 +8356,17 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
+			(at 167.64 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 167.64 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8519,7 +8551,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8591,6 +8623,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 205.74 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 205.74 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -8838,6 +8881,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 57.15 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e2220b73-a028-4e51-b7ab-88c2092a8caf")
 		)
@@ -9017,6 +9071,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 96.52 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d552e4fb-1d22-4b82-a900-4d7ade6163e8")
 		)
@@ -9099,6 +9164,17 @@
 			)
 		)
 		(property "TME_SYMBOL" "SBA120CS-R1"
+			(at 151.13 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 151.13 36.83 90)
 			(hide yes)
 			(show_name no)
@@ -9269,6 +9345,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 146.05 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "61632ee7-280f-4b27-8da5-4db381bb2041")
 		)
@@ -9351,6 +9438,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 157.48 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ad5bee34-11dd-4bd0-a922-c9e207f224ea")
 		)
@@ -9369,7 +9467,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9452,6 +9550,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 85.09 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cae7e772-9aa2-4d14-94b7-e8a54157a084")
 		)
@@ -9524,6 +9633,17 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
+			(at 177.8 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 177.8 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -9689,6 +9809,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 115.57 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "a50baf8f-83c3-4002-b547-5c7c24b569ba")
 		)
@@ -9728,7 +9859,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9801,6 +9932,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 96.52 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 96.52 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -10051,6 +10193,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 233.68 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3a1d49b6-8ddc-446f-a00b-b69d8c359421")
 		)
@@ -10134,6 +10287,17 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
+			(at 245.11 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 245.11 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -10376,6 +10540,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 266.7 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1fb88f54-e868-4b9c-bfee-e67b231684d0")
 		)
@@ -10480,6 +10655,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 146.05 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "403092dc-6a7f-4597-a13e-9e710e7ae4ab")
 		)
@@ -10562,6 +10748,17 @@
 			)
 		)
 		(property "TME_SYMBOL" "AMK212BC6476MG-T"
+			(at 193.04 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 193.04 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -10666,6 +10863,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 166.37 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 166.37 127 0)
 			(hide yes)
 			(show_name no)
@@ -10800,6 +11008,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 153.67 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "08a4dce4-717a-432b-9d8a-7f73c5695853")
 		)
@@ -10904,6 +11123,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 274.32 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "161ca423-b972-48a7-943c-d9bd4a5464f1")
 		)
@@ -10998,6 +11228,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 137.16 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 137.16 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -11263,7 +11504,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -11336,6 +11577,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 262.89 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 262.89 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -11448,6 +11700,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 173.99 142.24 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1ec63735-fe75-4c49-9b14-a98b06d30bec")
 		)
@@ -11528,6 +11791,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 190.5 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1bdc3a53-d546-4814-ab1c-c9c9902d5629")
 		)
@@ -11552,7 +11826,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -11625,6 +11899,17 @@
 			)
 		)
 		(property "Comment" "already have"
+			(at 143.51 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 143.51 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -11709,6 +11994,17 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
+			(at 86.36 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 86.36 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -11820,6 +12116,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 69.85 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "74c461dc-285e-4e53-b57c-d20512cf1be8")
 		)
@@ -11902,6 +12209,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 157.48 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b66e52af-ee83-411c-b174-7ac92d1fb7a8")
 		)
@@ -11973,6 +12291,17 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
+			(at 67.31 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 67.31 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -12152,6 +12481,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 166.37 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 166.37 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -12347,6 +12687,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 86.36 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c90511b1-ef6f-4263-b78d-ba2818d98611")
 		)
@@ -12505,6 +12856,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 137.16 24.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "19fe2cef-c633-46fa-9bfe-6ea00f6590e2")
 		)
@@ -12609,6 +12971,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 257.81 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8882d2f4-ad90-4313-9892-bf5690713a85")
 		)
@@ -12679,6 +13052,17 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 27.94 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 27.94 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -12828,6 +13212,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 60.96 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 60.96 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -13264,7 +13659,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
+		(property "Manufacturer" "Keystone Electronics"
 			(at 209.55 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -13298,6 +13693,17 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 209.55 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1_1"
@@ -13397,6 +13803,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 137.16 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 137.16 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -13665,6 +14082,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 160.02 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a9105930-3739-48be-b758-c47fae83d796")
 		)
@@ -13746,6 +14174,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 251.46 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ab4d72aa-a828-4452-87ce-3b79af7c0e34")
 		)
@@ -13814,6 +14253,17 @@
 		)
 		(property "Description" "I2C Controlled Single Cell (Li-Ion / Li-Polymer) 5A Fast Charger with MaxCharge, USB BC1.2 Detection, 3.9..14V VBUS, 3.840..4.608V charge voltage range, 1.5 MHz (buck mode) and 500 kHz /1.5 MHz (boost mode), WQFN-24"
 			(at 119.38 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 119.38 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13913,7 +14363,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -13986,6 +14436,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 107.95 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 107.95 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -14156,6 +14617,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 184.15 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3e7bccd1-34fa-4e36-abf6-3f477a5d094e")
 		)
@@ -14223,6 +14695,17 @@
 			)
 		)
 		(property "Description" "Single Buffer Gate Tri-State, Low-Voltage CMOS"
+			(at 67.31 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 67.31 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -14411,6 +14894,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 146.05 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "27c41130-8d98-4b5f-9eab-08c04a053c3e")
 		)
@@ -14571,6 +15065,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 67.31 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5e554093-bd8f-4488-97ad-2e67b2116f7b")
 		)
@@ -14665,6 +15170,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 166.37 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 166.37 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -14930,7 +15446,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -15002,6 +15518,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 243.84 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 243.84 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -15085,6 +15612,17 @@
 		)
 		(property "Description" "P-MOSFET transistor, gate/drain/source"
 			(at 173.99 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 173.99 72.39 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15257,6 +15795,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 104.14 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f6d259e1-d1a1-4e84-8e7d-363708028d21")
 		)
@@ -15361,6 +15910,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 120.65 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2acb7fc7-f81f-452b-89bd-1dfb66dd7167")
 		)
@@ -15455,6 +16015,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 194.31 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 194.31 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -15857,6 +16428,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 76.2 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ef608144-a324-4a29-9be1-d2d1c9f8abe8")
 		)
@@ -16036,6 +16618,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 49.53 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f11f4d00-4d29-4153-8f71-f06b18b8d744")
 		)
@@ -16130,6 +16723,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 146.05 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 146.05 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -16430,6 +17034,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 229.87 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b505c6d6-5a35-4997-9939-c4debd9f1a7b")
 		)
@@ -16461,7 +17076,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -16532,6 +17147,17 @@
 		)
 		(property "Comment" ""
 			(at 146.05 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 146.05 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16624,6 +17250,17 @@
 			)
 		)
 		(property "TME_SYMBOL" "AMK212BC6476MG-T"
+			(at 180.34 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 180.34 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -16826,7 +17463,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
+		(property "Manufacturer" "Keystone Electronics"
 			(at 209.55 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -16860,6 +17497,17 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 209.55 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1_1"

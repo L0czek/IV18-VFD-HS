@@ -7095,6 +7095,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 85.09 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "18"
 			(uuid "8cd5f0af-0fde-4ec8-9e4b-3f7cc448a57f")
 		)
@@ -7300,6 +7311,17 @@
 		)
 		(property "Description" "HV5812WG"
 			(at 54.356 112.776 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 45.72 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7547,6 +7569,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 140.97 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5f554942-f4c3-45c5-babf-ad5b09fd9c13")
 		)
@@ -7745,7 +7778,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7817,6 +7850,17 @@
 			)
 		)
 		(property "Comment" ""
+			(at 124.46 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 124.46 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -7984,6 +8028,17 @@
 				)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 50.8 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "18"
 			(uuid "988e12ae-6696-459f-8c3d-44a79493f750")
 		)
@@ -8105,6 +8160,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 123.19 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 123.19 36.83 0)
 			(hide yes)
 			(show_name no)
